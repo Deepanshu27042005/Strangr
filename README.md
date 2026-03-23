@@ -1,6 +1,6 @@
-# 🚀 Stranger Sync
+# 🚀 Strangr
 
-Stranger Sync is a modern, anonymous real-time chat application built using Flutter and Firebase. It connects users instantly based on mood, interests, and preferences — without requiring login or personal identity.
+Strangr is a modern, anonymous real-time chat application built using Flutter and Firebase. It connects users instantly based on mood, interests, and preferences — without requiring login or personal identity.
 
 ---
 
@@ -44,41 +44,41 @@ Stranger Sync is a modern, anonymous real-time chat application built using Flut
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/stranger-sync.git
-cd stranger-sync
+git clone https://github.com/Deepanshu27042005/Strangr
+cd strangr  
 
 ### 2. Install dependencies
-flutter pub get
+flutter pub get  
 
 ### 3. Configure Firebase
-flutterfire configure
+flutterfire configure  
 
 ### 4. Run the app
-flutter run
+flutter run  
 
 ---
 
 ## 📦 Build APK
 
-flutter build apk --release
+flutter build apk --release  
 
-APK location:
-build/app/outputs/flutter-apk/app-release.apk
+APK location:  
+build/app/outputs/flutter-apk/app-release.apk  
 
 ---
 
 ## 🔥 Future Improvements
 
-- Push Notifications
-- AI-based Matching
-- Voice Messages
-- Advanced Moderation System
+- Push Notifications  
+- AI-based Matching  
+- Voice Messages  
+- Advanced Moderation System  
 
 ---
 
 ## 👨‍💻 Author
 
-Deepanshu
+Deepanshu  
 
 ---
 
