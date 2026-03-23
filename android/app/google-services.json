@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "550277370430",
+    "firebase_url": "https://stranger-sync-c3d37-default-rtdb.firebaseio.com",
+    "project_id": "stranger-sync-c3d37",
+    "storage_bucket": "stranger-sync-c3d37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550277370430:android:eedf459ef910f21aec776f",
+        "android_client_info": {
+          "package_name": "com.example.d1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaZF6dzsqQzlTHimcEgq-n8LrGHpm-jQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
